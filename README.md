@@ -20,7 +20,7 @@ Even though the cybersecurity industry in Nepal is still in its infancy, we have
 
 ### Eligibility Criteria
 
-We've seen a tremendous increase in the number of cybersecurity enthusiasts in the community in recent years, but not everyone is eligible for the "Hall Of Fame." We've established some criteria that we believe are required to help learners find quality write-ups, walkthroughs, videos, research, and other resources from Nepali cybersecurity researchers. One of the most important requirements for eligibility is that the candidate or nominee for the Hall of Fame must be a Nepali national.
+We've seen a tremendous increase in the number of cybersecurity enthusiasts in the community in recent years, but not everyone is eligible for the "Hall of Fame." We've established some criteria that we believe are required to help learners find quality write-ups, walkthroughs, videos, research, and other resources from Nepali cybersecurity researchers. One of the most important requirements for eligibility is that the candidate or nominee for the Hall of Fame must be a Nepali national.
 
 **Aside from the aforementioned criteria, at least some of the following conditions must be satisfied to be eligible.**
 
