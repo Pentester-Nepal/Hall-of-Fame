@@ -16,7 +16,7 @@ Anyone who meets the Eligibility Criteria mentioned below can be inducted into t
 
 Even though the cybersecurity industry in Nepal is still in its infancy, we have a large number of well-known specialists. We will attempt to cover them all on our own in the list, but we think we don't even know many others. To fill this void, if you feel you are eligible for inclusion on the list, please click the link below and answer the questions if you are qualified, You'll be in our hall of fame. Also, If you feel we have left someone off the list, you may nominate someone as well.
 
->**link will be appear here soon**
+[Click Here](https://forms.gle/ScbzN3bTAaK78iKz9) to nominate yourself or your favorite one.
 
 ### Eligibility Criteria
 
