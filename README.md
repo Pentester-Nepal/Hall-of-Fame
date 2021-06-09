@@ -8,7 +8,7 @@ There's a purpose for everything, and we're no exception. We're guided by some g
 
 -   Assist learners and professionals in getting to know one another.
 -   Assist learners in obtaining materials promptly.
--   Because we solely feature Nepali penetration testers, anybody who has a problem understanding the information (blog, walkthrough, research, etc.) may simply question a professional in our language about their difficulty.
+-   Because we solely feature Nepali penetration testers, anybody who has a problem understanding the contents (blog, walkthrough, research, etc.) may simply question a professional in our own language **Nepali** about their difficulty.
 
 ## Who are eligible to be inducted into the PTN Hall of Fame?
 
