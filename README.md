@@ -25,4 +25,4 @@ We've seen a tremendous increase in the number of cybersecurity enthusiasts in t
 **Aside from the aforementioned criteria, at least some of the following conditions must be satisfied to be eligible.**
 
 -   The applicant/nominee must have made a significant contribution to Nepalese cyberspace.
--   Applicant/Nominees shall have created contents (blog/videos) or given talks on cybersecurity events.
+-   Applicant/Nominees must have created contents (blog/videos) or given talks on cybersecurity events.
