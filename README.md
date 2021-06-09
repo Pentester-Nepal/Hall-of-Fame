@@ -1,6 +1,6 @@
 # <div align="center"> Pentester Nepal - Hall of Fame</div>
 
-**Pentester Nepal** is a Nepal-based cybersecurity community that strives to bring together all cybersecurity experts, security enthusiasts, penetration testers, and bug bounty hunters under one roof. We've already had several seminars and activities geared at supporting the next generation and supporting community members in learning more about this field. Now, as a way to encourage more learners and show our appreciation for Nepali penetration testers, we've created the "**Hall of Fame**" repository, which aims to compile a list of all cybersecurity professionals, security enthusiasts, penetration testers, and bug bounty hunters, complete with their names, social media handles, and websites.
+**Pentester Nepal** is a Nepal-based cybersecurity community that strives to bring together all cybersecurity experts, security enthusiasts, penetration testers, and bug bounty hunters under one roof. We've already had several seminars and activities geared at supporting the next generation and community members in learning more about this field. Now, as a way to encourage more learners and show our appreciation for Nepali penetration testers, we've created the "**Hall of Fame**" repository, which aims to compile a list of all cybersecurity professionals, security enthusiasts, penetration testers, and bug bounty hunters, complete with their names, social media handles, and websites.
 
 ## Objectives
 
@@ -14,7 +14,7 @@ There's a purpose for everything, and we're no exception. We're guided by some g
 
 Anyone who meets the Eligibility Criteria mentioned below can be inducted into the "Hall of Fame."
 
-Even though the cybersecurity industry in Nepal is still in its infancy, we have a large number of well-known specialists. We will attempt to cover them all on our own in the list, but we think we don't even know many others. To fill this void, if you feel you are eligible for inclusion on the list, please click the link below and answer the questions if you feel you are qualified to be included on this list. You'll be in our hall of fame. If you feel we have left someone off the list, you may nominate someone as well.
+Even though the cybersecurity industry in Nepal is still in its infancy, we have a large number of well-known specialists. We will attempt to cover them all on our own in the list, but we think we don't even know many others. To fill this void, if you feel you are eligible for inclusion on the list, please click the link below and answer the questions if you are qualified, You'll be in our hall of fame. Also, If you feel we have left someone off the list, you may nominate someone as well.
 
 >**link will be appear here soon**
 
