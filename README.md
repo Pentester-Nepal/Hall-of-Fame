@@ -28,7 +28,7 @@ We've seen a tremendous increase in the number of cybersecurity enthusiasts in t
 -   Applicant/Nominees must have created contents (blog/videos) or given talks on cybersecurity events.
 
 ## Disclaimer
-We shall not be held accountable if any of our "Hall oF Fame" holders engage in unlawful activities or fraud cases since the "Pentester Nepal - Hall oF Fame" is founded on people' contributions to the Nepali cybersecurity community. Pentester Nepal never promotes any sorts of activity that have been deemed unlawful by the Government of Nepal, and if we find anybody engaging in such activities, we will promptly remove them from the list and the Pentester Nepal Community Facebook Group.
+We shall not be held accountable if any of our "Hall of Fame" holders engage in unlawful activities or fraud cases since the "Pentester Nepal - Hall oF Fame" is founded on people' contributions to the Nepali cybersecurity community. Pentester Nepal never promotes any sorts of activity that have been deemed unlawful by the Government of Nepal, and if we find anybody engaging in such activities, we will promptly remove them from the list and the Pentester Nepal Community Facebook Group.
 
 If you come across someone from the Pentester Nepal community engaging in such behavior, please assist us by reporting them to us using the link below.
 >**link will be appear here soon**
