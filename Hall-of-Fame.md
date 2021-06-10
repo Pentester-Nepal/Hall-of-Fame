@@ -17,4 +17,5 @@ Smaran Chand | | [@smaranchand](https://twitter.com/smaranchand) | [https://smar
 Bishal Shrestha | | [@bishal0x01](https://twitter.com/bishal0x01) | [https://bishal0x01.medium.com](https://bishal0x01.medium.com)
 Akash Basnet | Noneofyou | [akash.basnet](https://facebook.com/akash.basnet) | [https://akashbasnet.com.np](https://akashbasnet.com.np)
 Binit Ghimire | WHOISbinit | [@WHOISbinit](https://twitter.com/WHOISbinit) | [https://WHOISbinit.me](https://WHOISbinit.me)
+Nikhil Aryal | Captain Nick Lucifer* | [@naryal2580](https://twitter.com/naryal2580) | 
 </div>
