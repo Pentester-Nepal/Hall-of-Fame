@@ -10,7 +10,7 @@ The Pentester Nepal Hall of Fame acknowledges the most prominent cybersecurity c
 Nabin KC | | [@N_cnew](https://twitter.com/N_cnew) | [http://kcnabin.com.np](http://kcnabin.com.np)
 Santosh Bhandari | CodedBrain | [@mrcodedbrain](https://twitter.com/mrcodedbrain) | [https://codedbrain.com](https://codedbrain.com)
 Nirmal Thapa | | [@tnirmalz](https://twitter.com/tnirmalz) | 
-Kailash Bohora | Corrupted Brain | [@Corrupted_brain](https://twitter.com/Corrupted_brain) | 
+Kailash Bohora | Corrupted Brain | [@Corrupted_brain](https://twitter.com/Corrupted_brain) | [http://kailashbohara.com.np](http://kailashbohara.com.np)
 Samip Pokharel | maskop9 | [@maskop9](https://twitter.com/@maskop9) | [https://samipp.com.np](https://samipp.com.np)
 Ajay Gautam | evilboyajay | [@evilboyajay](https://twitter.com/evilboyajay) | [https://evilboyajay.medium.com](https://evilboyajay.medium.com) <br/> [https://ajaygautam.info.np](https://ajaygautam.info.np)
 Smaran Chand | | [@smaranchand](https://twitter.com/smaranchand) | [https://smaranchand.com.np](https://smaranchand.com.np)
