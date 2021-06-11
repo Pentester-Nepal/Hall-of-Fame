@@ -18,4 +18,6 @@ Bishal Shrestha | | [@bishal0x01](https://twitter.com/bishal0x01) | [https://bis
 Akash Basnet | Noneofyou | [akash.basnet](https://facebook.com/akash.basnet) | [https://akashbasnet.com.np](https://akashbasnet.com.np)
 Binit Ghimire | WHOISbinit | [@WHOISbinit](https://twitter.com/WHOISbinit) | [https://WHOISbinit.me](https://WHOISbinit.me)
 Nikhil Aryal | Captain Nick Lucifer* | [@naryal2580](https://twitter.com/naryal2580) | 
+Baibhav Anand Jha | spongebhav | [@spongebhav](https://twitter.com/spongebhav) | [https://baibhavjha.com.np](https://baibhavjha.com.np)
+Jabir Hussain | jabirkhan0x0 | [@jabirkhan0x0](https://twitter.com/jabirkhan0x0) | [https://medium.com/@jabirkhan1](https://medium.com/@jabirkhan1)
 </div>
