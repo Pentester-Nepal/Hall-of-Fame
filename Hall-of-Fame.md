@@ -20,4 +20,5 @@ Binit Ghimire | WHOISbinit | [@WHOISbinit](https://twitter.com/WHOISbinit) | [ht
 Nikhil Aryal | Captain Nick Lucifer* | [@naryal2580](https://twitter.com/naryal2580) | 
 Baibhav Anand Jha | spongebhav | [@spongebhav](https://twitter.com/spongebhav) | [https://baibhavjha.com.np](https://baibhavjha.com.np)
 Jabir Hussain | jabirkhan0x0 | [@jabirkhan0x0](https://twitter.com/jabirkhan0x0) | [https://medium.com/@jabirkhan1](https://medium.com/@jabirkhan1)
+Niraj Khatiwada | nerrorsec | [@nerrorsec](https://twitter.com/nerrorsec) | [https://nirajkhatiwada.com.np](https://nirajkhatiwada.com.np) <br/><br/> [Youtube](https://www.youtube.com/channel/UC8Nj98GJ02R06rqiouNfEQg)
 </div>
